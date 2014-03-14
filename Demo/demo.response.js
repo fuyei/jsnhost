@@ -1,4 +1,4 @@
-{
+var treeData = {
 "time":{
 "time":[
   {"time":"2014-02-26T12:05:17"},
